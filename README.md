@@ -29,8 +29,8 @@ If you share our passion for education and technology, explore our repositories,
 
 ## Contact and Socials
 Website: https://learnlogicify.in  
-YouTube: [@SachinCodingUniverse](https://www.youtube.com/@SachinsCodingUniverse)
-Instagram: @learnlogicify-official
+YouTube: [@SachinCodingUniverse](https://www.youtube.com/@SachinsCodingUniverse)  
+Instagram: @learnlogicify-official  
 Email: sachinsns@learnlogicify.com  
 
 Thank you for visiting our GitHub. We are continuously improving, and we’re excited to have you as part of our journey.
