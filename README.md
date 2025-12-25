@@ -28,9 +28,9 @@ This GitHub organization includes:
 If you share our passion for education and technology, explore our repositories, contribute ideas, and collaborate with us on new initiatives. We welcome feedback, participation, and community-driven improvement.
 
 ## Contact and Socials
-Website: https://learnlogicify.com  
-YouTube: LearnLogicify  
-Instagram: @learnlogicify  
-Email: contact@learnlogicify.com  
+Website: https://learnlogicify.in  
+YouTube: @SachinCodingUniverse
+Instagram: @learnlogicify-official  
+Email: sachinsns@learnlogicify.com  
 
 Thank you for visiting our GitHub. We are continuously improving, and we’re excited to have you as part of our journey.
